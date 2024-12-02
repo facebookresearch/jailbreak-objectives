@@ -1,0 +1,17 @@
+output/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Finder attributes
+Icon?
+._*
+
+# macOS resource fork files
+*.swp
+*.swo
+*.fseventsd
+*.Spotlight-V100
+.Trashes
