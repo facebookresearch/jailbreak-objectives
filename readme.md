@@ -1,10 +1,10 @@
 # An Objective for Nuanced LLM Jailbreaks
 
-This codebase implements the target prefix generation pipeline from our [nuanced LLM jailbreaks]() paper.
+This codebase implements the target prefix generation pipeline from our [nuanced LLM jailbreaks](https://arxiv.org/abs/2412.10321) paper.
 For a given user requests and victim LLM, the pipeline automatically generates and selects target prefixes.
 Replacing the original "Sure, here is ..." with these prefixes enables more nuanced jailbreak attacks.
 
-[**[arXiv]()**]
+[**[arXiv](https://arxiv.org/abs/2412.10321)**]
 
 ![Alt Text](assets/intro_fig.jpg)
 
